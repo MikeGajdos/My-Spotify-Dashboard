@@ -1,0 +1,9 @@
+.songItem {
+  display: flex;
+}
+.track-info {
+  display: flex;
+}
+.track-info > * {
+  padding: 0 1em;
+}
